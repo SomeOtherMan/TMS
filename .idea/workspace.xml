@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0020f10-16af-4a33-8c43-811c4e6ae6cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Modules.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/consumer/consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/consumer/src/by/kustarev/consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/consumer/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/producer/producer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/producer/src/by/kustarev/model/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/producer/src/by/kustarev/producer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/producer/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/writer/src/by/kustarev/writer/Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/writer/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/writer/writer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/consumer/by/kustarev/consumer/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/consumer/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/producer/by/kustarev/model/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/producer/by/kustarev/producer/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/producer/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/writer/by/kustarev/writer/Writer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/writer/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegEx/RegEx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegEx/src/by/kustarev/regex/RegEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +15,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kustarev Ivan" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25mdy6ASaVyiker1Qc2tqxP1cqG" />
@@ -58,6 +40,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-17 (2)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Modules" />
@@ -99,11 +82,23 @@
       <option name="presentableId" value="Default" />
       <updated>1646136446890</updated>
       <workItem from="1646136449217" duration="428000" />
-      <workItem from="1646137107862" duration="3315000" />
+      <workItem from="1646137107862" duration="4879000" />
     </task>
+    <task id="LOCAL-00001" summary="Modules and var HW">
+      <created>1646140554064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646140554064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modules and var HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modules and var HW" />
   </component>
 </project>
