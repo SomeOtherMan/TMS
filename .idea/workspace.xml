@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0020f10-16af-4a33-8c43-811c4e6ae6cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RegEx/RegEx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegEx/src/by/kustarev/regex/RegEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegEx/src/by/kustarev/hw/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegEx/src/by/kustarev/regex/RegEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegEx/src/by/kustarev/regex/RegEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients.dat" beforeDir="false" afterPath="$PROJECT_DIR$/clients.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/consumer/by/kustarev/consumer/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/consumer/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/producer/by/kustarev/model/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/producer/by/kustarev/producer/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/producer/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/writer/by/kustarev/writer/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/writer/module-info.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +37,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="25mdy6ASaVyiker1Qc2tqxP1cqG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,16 +56,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-17 (2)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Modules" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.184379" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\xivan\IdeaProjects\TMS\Modules" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HomeWork">
     <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.kustarev.consumer.Consumer" />
       <module name="consumer" />
@@ -67,8 +80,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.kustarev.hw.HomeWork" />
+      <module name="RegEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.kustarev.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.kustarev.regex.RegEx" />
+      <module name="RegEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.kustarev.regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.RegEx" />
         <item itemvalue="Application.Consumer" />
       </list>
     </recent_temporary>
@@ -96,6 +137,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modules and var HW" />
